@@ -1,0 +1,84 @@
+/*titlePanel{
+    align-content: center;
+}
+*/
+/* Body Background */
+.plot-container {
+  margin-top: 0 !important;
+}
+body {
+    background-color: #F7F3F5;
+    max-width: 1366px !important;
+  }
+  
+  /* Sidebar Background */
+  .sidebar {
+    background-color: #E2C2B3;
+  }
+  
+  /* Sidebar Text Color */
+  .sidebar a {
+    color: #403234;
+  }
+  
+  /* Main Panel Background */
+  .main-panel {
+    background-color: #687477;
+    width: 100%;
+  }
+  
+  /* Title Panel Color */
+  .title-panel {
+    background-color: #403234;
+    color: #F7F3F5;
+    
+    text-align: center !important;
+  }
+
+  
+  /* Well Panel Background */
+  .well {
+    background-color: #E2C2B3;
+  }
+  
+  /* Well Panel Text Color */
+  .well p {
+    color: #403234;
+  }
+  
+  /* Tab Background */
+  .nav-tabs {
+    background-color: #403234;
+  }
+  
+  /* Tab Text Color */
+  .nav-tabs a {
+    color: #F7F3F5;
+    
+  }
+  
+  /* Tab Active Background */
+  .nav-tabs .active a {
+    background-color: #687477;
+    color: #F7F3F5;
+  }
+  
+  .nav-tabs a:hover {
+    color: #403234 !important;
+  }
+  /* Tab Content Background */
+  .tab-content {
+    background-color: #F7F3F5;
+  }
+  
+  /* Plot Background */
+  .plot-container {
+    background-color: #F7F3F5;
+  }
+  
+  /* Footer Background */
+  .footer {
+    background-color: #403234;
+    color: #F7F3F5;
+  }
+  
