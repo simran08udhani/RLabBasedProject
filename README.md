@@ -2,37 +2,37 @@
 
 ## Overview
 
-Welcome to the Global Economic Dashboard, an interactive Shiny app designed to provide a comprehensive overview of key economic indicators for selected countries. Explore data on agriculture, ease of doing business, education expenditure, exports, GDP, health expenditure, imports, industry, inflation rate, R&D, service sector, unemployment, population, land area, and more.
+Welcome to the Global Economic Dashboard, a data analytics and visualization Shiny app designed to provide insights into key economic indicators for 20 countries. This interactive tool spans the years 2012 to 2022 and incorporates a Regression Machine Learning model to predict Education Expenditure (%GDP). Explore diverse data through 2D and 3D charts, offering a comprehensive view of economic trends.
 
 ## Features
 
 ### Data Tab
 - Checkbox: Show row names in the data table.
-- Data table displaying the selected country's economic indicators.
+- Data table displaying economic indicators for the selected countries.
 
 ### Visualization Tab
-- Select a country and an economic indicator to visualize trends over the years using an interactive line plot.
+- Select a country and an economic indicator to visualize trends from 2012 to 2022 using an interactive line plot.
 
 ### 3D Visualization Tab
 - Choose between scatterplot3d or rgl for 3D visualization.
-- Select an indicator and a year to explore the economic landscape in three dimensions.
+- Select an indicator and a year to explore economic landscapes in three dimensions.
 
 ### Future Trends Tab
 - Input numeric values for future trends in export, health expenditure, import, industry, and inflation rate.
-- Click "Predict" to use the Random Forest model for predicting future trends.
-- View the model's prediction in the "Random Forest Model Results" section.
+- Click "Predict" to use the Regression Machine Learning model for predicting future trends in Education Expenditure (%GDP).
+- View the model's prediction in the "Regression Model Results" section.
 
 ## How to Use
 
-1. Navigate through the tabs to explore different aspects of the global economy.
+1. Navigate through the tabs to explore different aspects of the economic data.
 2. In the "Visualization" tab, select a country and an economic indicator to view historical trends.
 3. Use the 3D Visualization tab to explore economic indicators in a three-dimensional space.
-4. In the "Future Trends" tab, input numeric values and click "Predict" to get future trend predictions.
+4. In the "Future Trends" tab, input numeric values and click "Predict" to get future trend predictions for Education Expenditure (%GDP).
 
 ## Notes
 
-- This app covers countries such as Argentina, Australia, Brazil, Canada, China, France, Germany, India, Indonesia, Italy, Japan, Korea, Mexico, Saudi Arabia, South Africa, Turkey, United Arab Emirates, United Kingdom, and the United States.
-- The Random Forest model is utilized for predicting future trends based on the input parameters.
+- This app covers 20 countries, including Argentina, Australia, Brazil, Canada, China, France, Germany, India, Indonesia, Italy, Japan, Korea, Mexico, Saudi Arabia, South Africa, Turkey, United Arab Emirates, United Kingdom, and the United States.
+- The Regression Machine Learning model is utilized for predicting Education Expenditure (%GDP) based on the input parameters.
 
 ## Getting Started
 
@@ -41,7 +41,7 @@ Welcome to the Global Economic Dashboard, an interactive Shiny app designed to p
 
 ## Credits
 
-This app was developed using the Shiny framework and various R packages. Data is sourced from the "cn_filter.csv" file, and the Random Forest model is built using the "ML_education_expenditure_model.R" script.
+This app was developed using the Shiny framework and various R packages. Data is sourced from the "cn_filter.csv" file, and the Regression Machine Learning model is built using the "ML_education_expenditure_model.R" script.
 
 ## Author
 
