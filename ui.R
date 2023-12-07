@@ -113,7 +113,7 @@ data <- df
 rf_model <- rf_model
 
 fluidPage(
-  theme = "custom1.css",
+  theme = "custom.css",
   titlePanel("Global Economic Dashboard", windowTitle = "Global Economic Dashboard"),
   sidebarLayout(
     sidebarPanel(
