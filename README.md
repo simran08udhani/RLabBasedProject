@@ -45,5 +45,5 @@ This app was developed using the Shiny framework and various R packages. Data is
 
 ## Author
 
-[Simran Udhani]
+Simran Udhani
 
