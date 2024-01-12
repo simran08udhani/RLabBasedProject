@@ -1,4 +1,7 @@
 # Global Economic Dashboard
+![Global Economic Dashboard](./Global%20Economic%20Dashboard/www/Global%20Economic%20Dashboard.png)
+![PowerBI Report](./Global%20Economic%20Dashboard/www/PowerBI%20Report.png)
+
 
 ## Overview
 
