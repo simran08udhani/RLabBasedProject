@@ -54,3 +54,6 @@ Simran Udhani
 ## License
 
 The Global Economic Dashboard is licensed under the [MIT License](LICENSE).
+
+---
+Feel free to contribute, report issues, or suggest improvements!
