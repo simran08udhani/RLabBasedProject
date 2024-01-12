@@ -47,3 +47,6 @@ This app was developed using the Shiny framework and various R packages. Data is
 
 Simran Udhani
 
+## License
+
+The Global Economic Dashboard is licensed under the [MIT License](LICENSE).
