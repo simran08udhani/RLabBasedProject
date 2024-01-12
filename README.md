@@ -41,7 +41,7 @@ Welcome to the Global Economic Dashboard, a data analytics and visualization Shi
 
 ## PowerBI Report
 
-Check out the [PowerBI report](R project Report.pbix) for visualizations and insights complementing the Shiny app.
+Check out the [PowerBI report](https://github.com/simran08udhani/RLabBasedProject/blob/main/R%20project%20Report.pbix) for visualizations and insights complementing the Shiny app.
 
 ## Credits
 
