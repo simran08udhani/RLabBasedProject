@@ -39,9 +39,13 @@ Welcome to the Global Economic Dashboard, a data analytics and visualization Shi
 1. Open the app by running `shiny::runApp("app_directory_path")` in RStudio.
 2. Ensure you have the required packages installed using `install.packages(c("shiny", "leaflet", "DT", "scatterplot3d", "rgl", "tidyverse", "randomForest"))`.
 
+## PowerBI Report
+
+Check out the [PowerBI report](R project Report.pbix) for visualizations and insights complementing the Shiny app.
+
 ## Credits
 
-This app was developed using the Shiny framework and various R packages. Data is sourced from the "cn_filter.csv" file, and the Regression Machine Learning model is built using the "ML_education_expenditure_model.R" script.
+This app was developed using the Shiny framework and various R packages. Data is sourced from the World Bank, and the Regression Machine Learning model is built using the "ML_education_expenditure_model.R" script.
 
 ## Author
 
