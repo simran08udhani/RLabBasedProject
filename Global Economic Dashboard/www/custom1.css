@@ -1,0 +1,77 @@
+/* Body Background */
+body {
+    background-color: #A7BEAE;
+    max-width: 1366px !important;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Sidebar Background */
+  .sidebar {
+    background-color: #B85042;
+  }
+  
+  /* Sidebar Text Color */
+  .sidebar a {
+    color: #E7E8D1;
+  }
+  
+  /* Main Panel Background */
+  .main-panel {
+    background-color: #E7E8D1;
+    width: 100%;
+  }
+  
+  /* Title Panel Color */
+  .title-panel {
+    background-color: #B85042;
+    color: #E7E8D1;
+    text-align: center !important;
+  }
+  
+  /* Well Panel Background */
+  .well {
+    background-color: #B85042;
+  }
+  
+  /* Well Panel Text Color */
+  .well p {
+    color: #E7E8D1;
+  }
+  
+  /* Tab Background */
+  .nav-tabs {
+    background-color: #B85042;
+  }
+  
+  /* Tab Text Color */
+  .nav-tabs a {
+    color: #E7E8D1;
+  }
+  
+  /* Tab Active Background */
+  .nav-tabs .active a {
+    background-color: #A7BEAE;
+    color: #E7E8D1;
+  }
+  
+  .nav-tabs a:hover {
+    color: #A7BEAE !important;
+  }
+  
+  /* Tab Content Background */
+  .tab-content {
+    background-color: #A7BEAE;
+  }
+  
+  /* Plot Background */
+  .plot-container {
+    background-color: #A7BEAE;
+  }
+  
+  /* Footer Background */
+  .footer {
+    background-color: #B85042;
+    color: #E7E8D1;
+  }
+  
