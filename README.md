@@ -1,6 +1,11 @@
 # Global Economic Dashboard
-![Global Economic Dashboard](./Global%20Economic%20Dashboard/www/Global%20Economic%20Dashboard.png)
-![PowerBI Report](./Global%20Economic%20Dashboard/www/PowerBI%20Report.png)
+
+<table>
+  <tr>
+    <td><img src="./Global%20Economic%20Dashboard/www/Global%20Economic%20Dashboard%20(2).png" alt="Global Economic Dashboard Data Tab"></td>
+    <td><img src="./Global%20Economic%20Dashboard/www/Global%20Economic%20Dashboard.png" alt="Global Economic Dashboard Future Trends Tab"></td>
+  </tr>
+</table>
 
 
 ## Overview
@@ -44,6 +49,7 @@ Welcome to the Global Economic Dashboard, a data analytics and visualization Shi
 
 ## PowerBI Report
 
+![PowerBI Report](./Global%20Economic%20Dashboard/www/PowerBI%20Report.png)
 Check out the [PowerBI report](https://github.com/simran08udhani/RLabBasedProject/blob/main/R%20project%20Report.pbix) for visualizations and insights complementing the Shiny app.
 
 ## Credits
